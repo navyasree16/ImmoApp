@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Praktikum 2</string>
+    <string name="helloworld">Hallo Welt</string>
+    <string name="loginknopf">Anmelden</string>
+    <string name="neueruserknopf">Neuen Account erstellen</string>
+    <string name="vnameuser">Name</string>
+    <string name="nnameuser">Nachname</string>
+    <string name="telefonuser">Telefonnummer</string>
+    <string name="emailuser">Email Adresse</string>
+    <string name="pwuser">Passwort</string>
+    <string name="pwuserwiederholen">Passwort wiederholen</string>
+    <string name="usererstellenknopf">Konto erstellen</string>
+    <string name="abbrechenknopf">Abbrechen</string>
+    <string name="kauferknopf">Imobilie Kaufen</string>
+    <string name="verkauferknopf">Imobilie Verkaufen</string>
+    <string name="eigeneinserateknopf">Meine Inserate</string>
+    <string name="favoritenknopf">Meine Favoriten</string>
+    <string name="einstellungenknopf">Einstellungen</string>
+    <string name="datenandernlable">Persönliche Daten ändern:</string>
+    <string name="speichernknopf">Änderungen speichern</string>
+    <string name="abmeldenknopf">Abmelden</string>
+    <string name="imodatenlable">Imobilien Daten:</string>
+    <string name="inseraterstellenknopf">Inserat erstellen</string>
+    <string name="imobilienname">Imobilienname</string>
+    <string name="imobiliengroese">Fläche</string>
+    <string name="imobilienwohflaeche">Wohnfläche</string>
+    <string name="imobilienpreis">Preis</string>
+    <string name="imobilienanzahlzimmer">Zimmer anzahl</string>
+    <string name="imobilienanzahlschlafzimmer">Anzahl Schlafzimmer</string>
+    <string name="imobilienanzahlbaeder">Anzahl Bäder</string>
+    <string name="imobilienanzahletagen">Anzahl Etagen</string>
+    <string name="imobilienbeschreibung">Beschreibung</string>
+    <string name="imobilienprovision">Provision</string>
+    <string name="zuruckzumstartknopf">Zurück zum Start</string>
+    <string name="imobilienstandort">Standort</string>
+    <string name="loeschenknopf">Löschen</string>
+    <string name="datenunvollständig">Daten sind unvollständig!</string>
+    <string name="passwortungleich">Passwort Eingabe Stimmt nicht überein!</string>
+    <string name="Inseratloeschenknopf">Inserat Löschen</string>
+    <string name="Favoritloeschenknopf">Aus Favoriten entfernen</string>
+    <string name="ZuFavoritenknopf">Zu Favoriten hinzufügen</string>
+
+
+
+</resources>
